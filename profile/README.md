@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/figranium/figranium/main/banner.png" alt="Figranium">
 
-  <h1>Visual browser automation, turned into reusable tools.</h1>
+  **Visual browser automation, turned into reusable tools.**
 
   <p><strong>Build browser Tasks visually. Run them through an API, schedule, SDK, workflow automation platform, or MCP client.</strong></p>
 
