@@ -11,8 +11,6 @@
     <a href="https://figranium.dev/docs"><strong>Documentation</strong></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://community.figranium.dev"><strong>Community</strong></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/figranium/figranium"><strong>Get started</strong></a>
   </p>
 </div>
 
