@@ -3,8 +3,6 @@
 
   **Visual browser automation, turned into reusable tools.**
 
-  <p><strong>Build browser Tasks visually. Run them through an API, schedule, SDK, workflow automation platform, or MCP client.</strong></p>
-
   <p>
     <a href="https://figranium.dev"><strong>Website</strong></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
